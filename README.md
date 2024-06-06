@@ -12,12 +12,12 @@ Add the specific information about your paper here:
 
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). *This is an invalid reference*. Name of journal/book
-> <https://doi.org/xxx/xxx>
+> Authors, (1990). **This is an invalid reference**. Name of
+> journal/book <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
-> Authors, (YYYY). *This is an invalid reference*. Name of journal/book,
+> Authors, (1678). *This is an invalid reference*. Name of journal/book,
 > Accessed 06 Jun 2024. Online at <https://doi.org/xxx/xxx>
 
 ### How to cite
